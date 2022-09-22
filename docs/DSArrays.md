@@ -31,3 +31,9 @@ _____
 
 - Solo almacena números y caracteres
 - Basado en listas
+
+## Ejemplos
+
+[Array 1D](../arrays/array_1d.py) [(Test here)](../arrays/test_array1D.py)
+
+[Array 2D](../arrays/array_2d.py) [(Test here)](../arrays/test_array2D.py)
