@@ -85,4 +85,6 @@ Colección
 
 _____
 
-[Colecciones en Python](PythonCollections.md)
+[Colecciones en Python](docs/PythonCollections.md)
+
+[Estructuras de Datos](docs/DataStructures.md)
