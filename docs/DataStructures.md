@@ -9,3 +9,5 @@ Representación interna de una colección de información.
 [Linked](DSLinked.md)
 
 [Stacks](DSStacks.md)
+
+[Queues](DSQueues.md)
