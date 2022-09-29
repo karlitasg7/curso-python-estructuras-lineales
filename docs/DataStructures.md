@@ -5,4 +5,7 @@ _____
 Representación interna de una colección de información.
 
 [Arrays](DSArrays.md)
+
 [Linked](DSLinked.md)
+
+[Stacks](DSStacks.md)
