@@ -11,3 +11,7 @@ Representación interna de una colección de información.
 [Stacks](DSStacks.md)
 
 [Queues](DSQueues.md)
+
+## Example
+
+[PlayList](ExercisePlayList.md)
